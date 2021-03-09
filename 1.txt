@@ -1,2 +1,4 @@
 hello
 hi
+From Github with love
+Merge by hand
